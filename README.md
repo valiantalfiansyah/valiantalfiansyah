@@ -1,9 +1,12 @@
+<div align="center">
+
 # 💫 About Me
-Hello, my name is Valiant. I am a Spatial Data Engineer with a curiosity in Deep Learning and Cloud applications for Geospatial Data.
+Hello, my name is Valiant. I am a Spatial Data Engineer with a curiosity in Deep Learning and Cloud applications for Geospatial Data. <br/>
 
-## 🌐 Socials
+Find me on:
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valiantalfiansyah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@valiantalfiansyah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfiansyah.vian@gmail.com) 
-
 
 # 💻 Tech Stack
 
@@ -20,4 +23,6 @@ Hello, my name is Valiant. I am a Spatial Data Engineer with a curiosity in Deep
 ![](https://github-profile-trophy.vercel.app/?username=valiantalfiansyah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+
+
 [![](https://visitcount.itsvg.in/api?id=valiantalfiansyah&icon=0&color=0)](https://visitcount.itsvg.in)
