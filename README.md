@@ -1,5 +1,5 @@
 ### Hello, I'm Valiant  
-A **Spatial Data Engineer** with curiosity in **Deep Learning** and **Cloud Applications** for **Geospatial Data** 🌍☁️  
+A **Spatial Data Engineer** with curiosity in **Deep Learning** and **Cloud Applications** for **Geospatial Data**  
 
 #### Find me on  
 <p align="left">
@@ -24,12 +24,9 @@ A **Spatial Data Engineer** with curiosity in **Deep Learning** and **Cloud Appl
 
 ### GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=valiantalfiansyah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=valiantalfiansyah&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valiantalfiansyah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=valiantalfiansyah&theme=tokyonight&hide_border=true" />
 </p>
-
-
-
 
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=valiantalfiansyah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
