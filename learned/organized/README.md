@@ -1,0 +1,21 @@
+# WDYM organized?
+Organized means that my random thought would be put together and organized using section. I'm intend to create some categories, but I'm still don't know the number of categories i will learn. For now, i will put the catergories like this:
+- Programming
+  - Python
+  - SQL
+- Cloud Data Platform
+  - Databricks
+  - Snowflake
+- Data Engineering Tools
+  - Airflow
+  - OpenLineage
+  - DLT
+  - DBT
+- Software Engineering
+  - Code Architecture
+  - Git
+  - CI/CD
+  - Documentation
+  - Project Management
+- GIS
+- Misc
